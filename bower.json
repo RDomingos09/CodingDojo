@@ -1,0 +1,21 @@
+{
+  "name": "disaster-control",
+  "description": "Coding dojo NewSpace",
+  "main": "index.js",
+  "author": "Rodrigo Domingos",
+  "moduleType": [
+    "amd"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "^2.1.16"
+  }
+}

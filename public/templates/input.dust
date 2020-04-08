@@ -1,0 +1,13 @@
+{>"layouts/master" /}
+
+{<body}
+    <h1>{@pre type="content" key="greeting"/}</h1>
+    <h2>Dados de Entrada</h2>
+    <li>{@pre type="content" key="aeroportos"/}</h2>
+    <li>{@pre type="content" key="nuvens"/}</h2>
+    <li>{@pre type="content" key="terrAltura"/}</h2>
+    <li>{@pre type="content" key="terrLargura"/}</h2>
+    </li>
+    <h2>Mapa</h2>
+    {@pre type="content" key="mapa"/}
+{/body}

@@ -1,0 +1,6 @@
+{>"layouts/master" /}
+
+{<body}
+    <h1>{@pre type="content" key="greeting"/}</h1>
+    <h2>{@pre type="content" key="aeroportos"/}</h2>
+{/body}
